@@ -18,7 +18,7 @@ public class TCPortalPage extends BaseClass{
 		driver.get("https://dsportalapp.herokuapp.com/");
 		pp = new PO_PortalPage(driver);
 		pp.GetStartedBut();
-	System.out.println("Navigated to Home Page2");	
+	System.out.println("Navigated to Home Page");	
 	}
 	
 	
