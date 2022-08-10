@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-22T15:46:48 EDT" name="Default suite" finished-at="2022-07-22T15:46:48 EDT" duration-ms="51">
+    <groups>
+    </groups>
+    <test started-at="2022-07-22T15:46:48 EDT" name="Default test" finished-at="2022-07-22T15:46:48 EDT" duration-ms="51">
+      <class name="SeleniumMaven.TC_LoginPage">
+        <test-method signature="loginPage()[pri:0, instance:SeleniumMaven.TC_LoginPage@5119fb47]" started-at="2022-07-22T15:46:48 EDT" name="loginPage" finished-at="2022-07-22T15:46:48 EDT" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+      </class> <!-- SeleniumMaven.TC_LoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
